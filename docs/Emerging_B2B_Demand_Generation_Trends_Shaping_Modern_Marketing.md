@@ -113,6 +113,8 @@ Examples include:
 An integrated strategy creates a consistent experience across every buyer interaction.
 
 ---
+![diagram](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/diagrams/Modern%20B2B%20Demand%20Generation%20Activity%20Flow.jpg)
+---
 
 ## Choosing Demand Generation Services
 
