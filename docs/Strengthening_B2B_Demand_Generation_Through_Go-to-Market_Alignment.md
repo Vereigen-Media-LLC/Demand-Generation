@@ -21,12 +21,14 @@ Successful alignment enables organizations to:
 When every department shares the same objectives, marketing efforts become more effective throughout the buyer journey.
 
 ---
+![image](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/images/Strengthening_B2B_Demand_Generation_Through_Go-to-Market_Alignment.png)
+---
 
 ## Why GTM Alignment Matters for Demand Generation
 
 Modern buyers interact with multiple channels before making purchasing decisions. A disconnected GTM strategy can create inconsistent experiences that reduce engagement and campaign performance.
 
-An aligned **B2B demand generation marketing** approach helps organizations:
+An aligned [**B2B demand generation marketing**](https://vereigenmedia.com/demand-generation/) approach helps organizations:
 
 - Create unified messaging
 - Improve campaign coordination
@@ -69,9 +71,6 @@ Common contributors include:
 
 Shared planning and communication help improve campaign consistency while supporting better customer experiences.
 
-Learn more about Demand Generation:
-https://vereigenmedia.com/demand-generation/
-
 ---
 
 ## Supporting B2B Demand Generation Campaigns
@@ -108,6 +107,8 @@ Organizations commonly evaluate:
 Monitoring shared metrics enables teams to identify opportunities for continuous improvement.
 
 ---
+![diagram](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/diagrams/Go-to-Market_Alignment_Demand_Generation_Activity_Flow.png)
+---
 
 ## Best Practices for GTM Alignment
 
@@ -139,4 +140,4 @@ Go-to-market alignment is a critical component of modern **B2B demand generation
 Whether implementing **Demand Generation Services**, refining **B2B demand generation services**, or optimizing long-term GTM execution, cross-functional alignment provides a strong foundation for scalable business success.
 
 For additional insights into strengthening your go-to-market strategy, read:
-https://vereigenmedia.com/gtm-alignment-strengthen-your-b2b-go-to-market-strategy/
+[**Aligning Sales, Marketing, and Customer Success: Strategies for Building Unified Go-to-Market Teams**](https://vereigenmedia.com/gtm-alignment-strengthen-your-b2b-go-to-market-strategy/)
