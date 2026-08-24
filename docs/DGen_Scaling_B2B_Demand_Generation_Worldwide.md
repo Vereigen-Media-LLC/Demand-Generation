@@ -2,7 +2,7 @@
 
 B2B companies expanding into international markets need a demand generation approach that can scale across regions without losing audience relevance. Global growth requires more than translating campaigns. Marketing teams need to account for regional buying behavior, market maturity, messaging, channels, and data quality.
 
-A scalable **B2B Demand Generation Strategy** connects global business objectives with localized execution. It creates a consistent framework for identifying audiences, generating demand, engaging accounts, measuring performance, and optimizing campaigns across markets.
+A scalable [**B2B Demand Generation Strategy**](https://vereigenmedia.com/demand-generation/) connects global business objectives with localized execution. It creates a consistent framework for identifying audiences, generating demand, engaging accounts, measuring performance, and optimizing campaigns across markets.
 
 ## What Is Global B2B Demand Generation?
 
@@ -14,6 +14,8 @@ When expanding worldwide, organizations need to balance two priorities:
 - Local market relevance
 
 A strong global framework provides shared objectives, processes, measurement standards, and messaging principles while allowing regional teams to adapt execution.
+
+![image](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/images/Scaling-B2B-Demand-Generation-Worldwide.png)
 
 ## Why Global Demand Generation Requires a Structured Approach
 
@@ -108,6 +110,8 @@ Messaging should reflect regional business challenges and audience expectations 
 ### Select Relevant Channels
 
 Channel performance can vary by region. Teams should evaluate search, content, social, display, events, email, and other channels based on local audience behavior.
+
+![diagram](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/diagrams/Global-to-Local-Growth-Flow.png)
 
 ## B2B Demand Generation Marketing Across Markets
 
@@ -264,4 +268,4 @@ The strongest global demand programs continuously learn from regional performanc
 
 ## Reference
 
-https://vereigenmedia.com/scaling-b2b-demand-generation-worldwide/
+[***Scaling B2B Demand Generation Worldwide: Strategies That Actually Work***](https://vereigenmedia.com/scaling-b2b-demand-generation-worldwide/)
