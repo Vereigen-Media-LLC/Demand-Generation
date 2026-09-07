@@ -2,7 +2,7 @@
 
 Personalization helps B2B marketers make content, messaging, and campaign experiences more relevant to specific audiences. Instead of relying on one message for every prospect, marketers can use account, firmographic, behavioral, engagement, and intent data to adapt communication across the buyer journey.
 
-A structured **B2B Demand Generation Strategy** can use personalization to improve audience relevance, engagement, nurturing, and sales alignment. Effective personalization should be based on useful audience intelligence rather than superficial changes such as adding a prospect's name.
+A structured [**B2B Demand Generation Strategy**](https://vereigenmedia.com/demand-generation/) can use personalization to improve audience relevance, engagement, nurturing, and sales alignment. Effective personalization should be based on useful audience intelligence rather than superficial changes such as adding a prospect's name.
 
 ## What Is Personalization in B2B Demand Generation?
 
@@ -21,6 +21,8 @@ Relevant inputs can include:
 - Buying stage
 
 The objective is to provide relevant information while supporting broader demand generation goals.
+
+![image](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/images/Personalization-in-B2B-Demand-Generatioln.jpg)
 
 ## Why Personalization Matters for B2B Growth
 
@@ -119,6 +121,8 @@ Potential channels include:
 - Webinars
 - Account-based marketing
 - Sales outreach
+
+![diagram](https://github.com/Vereigen-Media-LLC/Demand-Generation/blob/main/diagrams/Personalization-in-B2B-Demand-Generation-workflow.jpg)
 
 ## Personalization and Account-Based Marketing
 
@@ -263,5 +267,4 @@ Personalization can make B2B demand generation more relevant by connecting audie
 By combining **B2B Demand Generation Services**, a structured **B2B Demand Generation Strategy**, personalized **B2B Demand Generation Marketing**, and measurable **B2B Demand Generation Campaigns**, organizations can create more relevant buyer experiences while supporting sustainable growth.
 
 ## Reference
-
-https://vereigenmedia.com/personalization-in-b2b-demand-generation-for-better-growth/
+[**Data-Driven Personalization in B2B Demand Gen**](https://vereigenmedia.com/personalization-in-b2b-demand-generation-for-better-growth/)
